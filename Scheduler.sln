@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36408.4 d17.14
+VisualStudioVersion = 17.14.36408.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scheduler", "Scheduler.csproj", "{38E2E3C1-CF6D-4D74-95AB-030E532E1D83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchedulerApiEndpoints", "..\SchedulrApiEndpoints\SchedulerApiEndpoints.csproj", "{B5591C08-0AC2-4E79-ABD4-72103AA7592F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{38E2E3C1-CF6D-4D74-95AB-030E532E1D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38E2E3C1-CF6D-4D74-95AB-030E532E1D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38E2E3C1-CF6D-4D74-95AB-030E532E1D83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5591C08-0AC2-4E79-ABD4-72103AA7592F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5591C08-0AC2-4E79-ABD4-72103AA7592F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5591C08-0AC2-4E79-ABD4-72103AA7592F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5591C08-0AC2-4E79-ABD4-72103AA7592F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

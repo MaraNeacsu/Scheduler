@@ -10,3 +10,4 @@ public class LiveSession : ContentItem
 
     public string? Notes { get; set; }
 }
+
